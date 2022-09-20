@@ -1,0 +1,15 @@
+Que1: 
+Ans -> To add a External Js file we Use script tag in head 
+or just before body closing tag and add attribute src 
+where we give the path of external Js file 
+ 
+<script src ="path of the file"> 
+	</script>
+
+
+
+Que2: 
+Ans-> addEventListner,click
+
+Que3:
+Ans ->  style.color
